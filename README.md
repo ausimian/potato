@@ -1,5 +1,7 @@
 # Potato
 
+[![Hex](https://img.shields.io/hexpm/v/potato.svg)](https://hex.pm/packages/potato) [![Build Status](https://travis-ci.org/ausimian/potato.svg?branch=master)](https://travis-ci.org/ausimian/potato)
+
 Mix tasks to assist in the generation of upgradeable releases.
 
 - `potato.full` - Generates a full upgradeable release.
