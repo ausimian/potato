@@ -47,7 +47,7 @@ The package can be installed by adding `potato` to your list of dependencies in 
 ```elixir
 def deps do
   [
-    {:potato, "~> 0.1.0", only: :dev, runtime: false}
+    {:potato, "~> 0.1.2", runtime: false}
   ]
 end
 ```
